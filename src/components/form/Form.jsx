@@ -9,7 +9,7 @@ const Form = () => {
         <div className='permuta_form-blue'></div>
         <div className='permuta_form-white'></div>
       </div>
-      <img src={Frame29} alt="image" className='permuta_form-img' />
+      <img src={Frame29} alt="form" className='permuta_form-img' />
       <div className='permuta_form-cnt2'>
         <div className='permuta_form-padding'>
         <h1 className='permuta_form-h1'>CONTACT US</h1>
