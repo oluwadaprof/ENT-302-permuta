@@ -1,0 +1,8 @@
+export { default as Nav } from './nav/Nav'
+export { default as Feature } from './feature/Feature'
+export { default as About } from './about/About'
+export { default as Contact } from './contact/Contact'
+export { default as Review } from './review/Review'
+export { default as Brand } from './brand/Brand'
+export { default as Form } from './form/Form'
+export { default as Footer } from './footer/Footer'

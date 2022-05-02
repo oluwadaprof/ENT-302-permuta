@@ -1,0 +1,61 @@
+.permuta_about {
+    display: flex;
+    margin-left: 280px;
+    margin-right: 280px;
+}
+
+strong {
+    font-size: 5rem;
+    color: white;
+}
+
+.permuta_about-p1 {
+    margin-bottom: 30px;
+    font-size: 2rem;
+    color: white;
+}
+
+.permuta_about-p2 {
+    font-size: 20px;
+    color: white;
+}
+
+.permuta_about-margin {
+    margin-bottom: 50px;
+}
+
+.permuta_about__img-logo {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 100px;
+}
+
+.permuta_about__img-thinking {
+    width: 35rem;
+    height: 40rem;
+    padding: 15px;
+    position: relative;
+    top: 150px;
+    z-index: 1;
+}
+
+.permuta_about-circle {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    z-index: 2;
+    position: relative;
+    top: 25px;
+    left: 400px;
+}
+
+button {
+    padding: 15px 25px 15px 25px;
+    font-size: 15px;
+    color: white;
+    background-color: #3434A4;
+    border-color: white;
+    margin-top: 50px;
+}
+

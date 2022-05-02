@@ -1,0 +1,73 @@
+.permuta_feature-cnt1 {
+    background-color: #e9edfd;
+    height: 53rem;
+}
+
+.permuta_feature-margin{
+    padding: 70px 300px 70px 300px;
+}
+
+.permuta_feature-bg1 {
+    height: 30rem;
+    width: 58rem;
+    background-color: #b3c1f3;
+    z-index: 1;
+}
+
+.permuta_feature-bg2 {
+    position: relative ;
+    bottom: 250px;
+    left: 350px;
+    height: 30rem;
+    width: 46rem;
+    background-color: #2542c3;
+    z-index: 1;
+}
+
+.permuta_feature-display {
+    display: flex;
+}
+
+.permuta_feature-cnt2 {
+    display: flex;
+    column-gap: 8px;
+    height: 34rem;
+    width: 58rem;
+    padding: 10px;
+    background-color: white;
+    position: relative;
+    bottom: 55rem;
+    left: 5rem;
+    z-index: 2;
+}
+
+.permuta_feature-img {
+    width: 30em;
+    height: 27em;
+    margin-top: 3rem;
+}
+
+.permuta_feature-p1 {
+    color: #2542c3;
+    font-size: 2rem;
+    margin-top: 5rem;
+}
+
+.permuta_feature-p2 {
+    margin-top: 3rem;
+    font-size: 1.2rem;
+}
+
+.permuta_feature-button {
+    position: relative;
+    bottom: 67rem;
+    left: 40rem;
+    z-index: 3;
+    border-radius: 50px;
+    color: white;
+    background-color: #2542c3;
+    border-color: #2542c3;
+    border-style: none;
+    width: 10rem;
+}
+

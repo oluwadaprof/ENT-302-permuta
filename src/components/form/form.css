@@ -1,0 +1,93 @@
+.permuta_form {
+    display: inline-block;
+    background: #e9edfd;
+    height: 10rem;
+    width: 100vw;
+    /* overflow: hidden; */
+}
+.permuta_form-cnt1 {
+    display: flex;
+    width: 100vw;
+}
+
+.permuta_form-blue {
+    background-color: #2542c3;
+    height: 55rem;
+    width: 50%;
+}
+
+.permuta_form-white {
+    background-color: white;
+    height: 55rem;
+    width: 50%;
+}
+
+.permuta_form-img {
+    width: 55rem;
+    height: 35rem;
+    position: relative;
+    bottom: 50rem;
+    left: 25rem;
+}
+
+.permuta_form-cnt2 {
+    background-color: #e73677;
+    width: 30rem;
+    height: 36rem;
+    position: relative;
+    bottom: 75rem;
+    left: 10rem;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.5);
+}
+
+.permuta_form-padding {
+    padding: 2rem 2rem 2rem 2rem;
+}
+
+.permuta_form-h1 {
+    color: white;
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+.permuta_form-input1 {
+    height: 2.8rem;
+    width: 25rem;
+    color: #aeaeae;
+    font-size: 1rem;
+    border-style: none;
+    margin-top: 2rem;
+    padding-left: 15px;
+}
+
+.permuta_form-input2 {
+    height: 2.8rem;
+    width: 25rem;
+    color: #aeaeae;
+    font-size: 1rem;
+    border-style: none;
+    margin-top: 1.5rem;
+    padding-left: 15px;
+}
+
+.permuta_form-ta {
+    height: 8rem;
+    width: 25rem;
+    color: #aeaeae;
+    font-size: 1rem;
+    border-style: none;
+    margin-top: 1.5rem;
+}
+
+.permuta_form-input3 {
+    height: 2.8rem;
+    width: 7rem;
+    background-color: #e73677;
+    color: white;
+    font-size: 1rem;
+    font-weight: bold;
+    border: 2px solid white;
+    margin-top: 2rem;
+}
+
+

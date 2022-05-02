@@ -1,0 +1,38 @@
+.permuta_testimony {
+    display: flex;
+    width: 35rem;
+    height: 20rem;
+    background:#ffffff;
+    border-radius: 10px;
+    column-gap: 10px;
+}
+
+.permuta_testimony-img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 10px solid rgb(170,186,247);
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.permuta_testimony-cnt2 {
+    margin-top: 30px;
+    margin-right: 20px;
+}
+
+.permuta_testimony-p1 {
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+
+.permuta_testimony-p2 {
+    margin-top: 15px;
+    font-size: 1.4rem;
+}
+
+.permuta_testimony-p3 {
+    margin-top: 15px;
+    font-size: 1.2rem;
+}
+
