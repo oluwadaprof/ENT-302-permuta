@@ -12,7 +12,7 @@ const Footer = () => {
             <div className='permuta_footer-display'>
                 <div className='permuta_footer-cnt1'>
                     <div className='permuta_footer-cnt1__1'>
-                        <img src={IMG_20220422_233425} alt="image" className='permuta_footer-img' />
+                        <img src={IMG_20220422_233425} alt="footer" className='permuta_footer-img' />
                         <p className='permuta_footer-cnt1__p1'>PERMUTA</p>
                     </div>
                     <p className='permuta_footer-cnt1__p2'>A platform for trade by exchange of goods given mutual consent and appreciation

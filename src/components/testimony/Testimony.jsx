@@ -5,7 +5,7 @@ import './testimony.css'
 const Testimony = ({image, name, status, children}) => {
   return (
     <div className='permuta_testimony'>
-         <img className='permuta_testimony-img' src={image} alt="image" />
+         <img className='permuta_testimony-img' src={image} alt="testimony" />
         <div className='permuta_testimony-cnt2'>
             <p className='permuta_testimony-p1' > {name} </p>
             <p className='permuta_testimony-p2'> {status} </p>

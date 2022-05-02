@@ -9,7 +9,7 @@ const Feature = () => {
         <div className='permuta_feature-bg1'></div>
         <div className='permuta_feature-bg2'></div>
         <div className='permuta_feature-cnt2'>
-          <img className='permuta_feature-img' src={Frame28} alt="feature-image" />
+          <img className='permuta_feature-img' src={Frame28} alt="feature" />
           <div>
           <p className='permuta_feature-p1'>About Company</p> 
           <p className='permuta_feature-p2'>
